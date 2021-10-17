@@ -49,7 +49,7 @@ The sample file format will be:
 |D|Jacob|1256|20101012|20121013|MVD|Paul|VIC|AU|06031987|A
 
 
-# Output
+## Output
 Script or program to read data from file and load into tables. All customers related to India will go to Table_India and so on.
 
 Create table queries.
