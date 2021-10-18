@@ -13,7 +13,7 @@ def createTable(tablename):
     class CountryName(Base):
         __tablename__ = tablename
         customerName = Column(String(255),primary_key=True)
-        id = Column(BigInteger, autoincrement=True)
+        id = Column(String(18))
         customerOpenDate = Column(Date, nullable=False)
         lastConsultedDate = Column(Date)
         vaccinationType = Column(String(5))
