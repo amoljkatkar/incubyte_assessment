@@ -25,10 +25,10 @@ Detail Records-
 | 2             | Customer ID         | 18           | VARCHAR   | Y         | N          |
 | 3             | Customer Open Date  | 8            | DATE      | Y         | N          |
 | 4             | Last Consulted Date | 8            | DATE      | N         | N          |
-| 5             | Vaccination Type    | 5            | VARCHAR   | N         | N          |
-| 6             | Doctor Consulted    | 255          | VARCHAR   | N         | N          |
-| 7             | State               | 5            | VARCHAR   | N         | N          |
-| 8             | Country             | 5            | VARCHAR   | N         | N          |
+| 5             | Vaccination Type    | 5            | CHAR      | N         | N          |
+| 6             | Doctor Consulted    | 255          | CHAR      | N         | N          |
+| 7             | State               | 5            | CHAR      | N         | N          |
+| 8             | Country             | 5            | CHAR      | N         | N          |
 | 9             | Post Code           | 5            | INTEGER   | N         | N          |
 | 10            | Date of Birth       | 8            | DATE      | N         | N          |
 | 11            | Active Customer     | 1            | CHAR      | N         | N          |
