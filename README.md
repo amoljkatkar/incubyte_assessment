@@ -56,3 +56,7 @@ Script or program to read data from file and load into tables. All customers rel
 Intermediate tables will look like below:
 
 ![Tree](https://github.com/amoljkatkar/incubyte_assessment/blob/main/screenshots/screenshot1.png)
+
+![Tree](https://github.com/amoljkatkar/incubyte_assessment/blob/main/screenshots/screenshot2.png)
+
+[!Tree](https://github.com/amoljkatkar/incubyte_assessment/blob/main/screenshots/screenshot3.png)
