@@ -56,6 +56,7 @@ The sample file format will be:
 * Script or program to read data from file and load into tables. All customers related to India will go to Table_India and so on.
 
 Script and data file for this is in Data and code folder.
+
 Procedure for "createCountryTable" is in data and code folder.
 
 
