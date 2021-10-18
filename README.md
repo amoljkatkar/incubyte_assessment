@@ -59,6 +59,10 @@ Script and data file for this is in Data and code folder.
 Procedure for "createCountryTable" is in data and code folder.
 
 
+### Running Python Script
+
+![Tree](https://github.com/amoljkatkar/incubyte_assessment/blob/main/screenshots/screenshot4.png)
+
 
 ### Intermediate tables will look like below:
 
@@ -69,6 +73,9 @@ Procedure for "createCountryTable" is in data and code folder.
 ### Tables created in incubye database:
 
 ![Tree](https://github.com/amoljkatkar/incubyte_assessment/blob/main/screenshots/screenshot3.png)
+
+### Table description:
+![Tree](https://github.com/amoljkatkar/incubyte_assessment/blob/main/screenshots/screenshot5.png)
 
 ### Queries on tables:
 ![Tree](https://github.com/amoljkatkar/incubyte_assessment/blob/main/screenshots/screenshot2.png)
