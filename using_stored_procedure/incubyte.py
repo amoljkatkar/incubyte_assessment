@@ -20,14 +20,16 @@ def createTables(engine, inspector, db, distinct_countries, existing_tables):
         if table in existing_tables:
             # using append can cause primary key error
             # thus its a good idea to drop tables first
-            print(table + " already exists")
-    
+            print(table + " already exists. Dropping")
+            with engine.connect() as con:
+                con.execute("drop table " + table)
+                print("Dropped")
         print("trying to create " + table)
         try:
             createTable(engine, table)
             print("Created")
         except Exception as e:
-            print()
+            print(e)
             
 
 
