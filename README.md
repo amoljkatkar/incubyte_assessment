@@ -59,4 +59,4 @@ Intermediate tables will look like below:
 
 ![Tree](https://github.com/amoljkatkar/incubyte_assessment/blob/main/screenshots/screenshot2.png)
 
-[!Tree](https://github.com/amoljkatkar/incubyte_assessment/blob/main/screenshots/screenshot3.png)
+![Tree](https://github.com/amoljkatkar/incubyte_assessment/blob/main/screenshots/screenshot3.png)
