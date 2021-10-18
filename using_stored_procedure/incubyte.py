@@ -18,8 +18,7 @@ def createTable(engine, tablename):
 def createTables(engine, inspector, db, distinct_countries, existing_tables):
     for table in distinct_countries:
         if table in existing_tables:
-            # using append can cause primary key error
-            # thus its a good idea to drop tables first
+            
             print(table + " already exists. Dropping")
             with engine.connect() as con:
                 con.execute("drop table " + table)
@@ -57,7 +56,6 @@ df.columns = ["N","D",
 del df['D']
 del df['N']
 
-#df['customerID'] = df['customerID'].apply(np.int64)
 df.set_index('customerID')
 
 try:
