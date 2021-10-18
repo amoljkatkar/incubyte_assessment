@@ -50,7 +50,7 @@ The sample file format will be:
 
 
 
-#### Note: In sample file given above post code not mentioned but it is present in Detail Records. I have written script according to sample file i.e. post code is not considered in code/script.
+### Note: In sample file given above post code not mentioned but it is present in Detail Records. I have written script according to sample file i.e. post code is not considered in code/script.
 
 
 
