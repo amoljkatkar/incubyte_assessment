@@ -57,7 +57,6 @@ The sample file format will be:
 
 Script and data file for this is in Data and code folder.
 
-Procedure for "createCountryTable" is in data and code folder.
 
 
 
