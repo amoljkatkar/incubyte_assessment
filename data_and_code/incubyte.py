@@ -57,7 +57,6 @@ df.columns = ["N","D",
 del df['D']
 del df['N']
 
-df['customerID'] = df['customerID'].apply(np.int64)
 df.set_index('customerID')
 
 try:
