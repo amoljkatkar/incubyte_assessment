@@ -52,4 +52,7 @@ The sample file format will be:
 ## Output
 Script or program to read data from file and load into tables. All customers related to India will go to Table_India and so on.
 
-Create table queries.
+
+Intermediate tables will look like below:
+
+![Tree](https://github.com/amoljkatkar/incubyte_assessment/blob/main/screenshots/screenshot1.png)
