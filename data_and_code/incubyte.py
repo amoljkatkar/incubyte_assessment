@@ -93,7 +93,7 @@ print()
 db = "incubyte"
 try:
     engine = create_engine(
-        "mysql+mysqlconnector://root:12345@localhost:3306/" + db)
+        "mysql+mysqlconnector://root:amol12345@localhost:3306/" + db)
     engine.connect()
     print("Database Connected")
 except Exception as e:
