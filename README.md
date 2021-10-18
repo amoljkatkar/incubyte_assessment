@@ -49,13 +49,14 @@ The sample file format will be:
 |D|Jacob|1256|20101012|20121013|MVD|Paul|VIC|AU|06031987|A
 
 
-** Note: In sample file given above post code not mentioned but it is present in Detail Records. I have written script according to sample file i.e. post is not considered in code/script.
+#### Note: In sample file given above post code not mentioned but it is present in Detail Records. I have written script according to sample file i.e. post code is not considered in code/script.
 
 
 ## Output
 * Script or program to read data from file and load into tables. All customers related to India will go to Table_India and so on.
 
 Script and data file for this is in Data and code folder.
+Procedure for "createCountryTable" is in data and code folder.
 
 
 
